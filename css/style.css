@@ -11,6 +11,49 @@ img{text-decoration:none; border:0px;}
 li{text-decoration:none;overflow:hidden; list-style:none;}
 ul{text-decoration:none;overflow:hidden; list-style:none;}
 
+#bannerNavigator{
+	width:200px;
+	margin:auto;
+}
+#topBar{
+	width:100%;
+}
+
+#boxNav{
+	margin: auto;
+
+}
+#dateBox{
+	width:200px;
+	height:200px;
+	float:left;
+	border-style: solid;
+	border-width: 2px;
+	border-color: rgb(76,36,103);
+	margin: 50px;
+	position: relative;
+}
+#dateBoxInfo{
+	background-color: rgba(255,255,255,0.7);
+	width:190px;
+	position: absolute;
+	font-size: 25px;
+	bottom:0px;
+	padding: 5px;
+	color: rgba(76,36,103,1);
+	line-height:1;
+	font-size:20px;
+}
+#dateBoxImg{
+	width:200px;
+	height:200px;
+}
+#vidSpace{
+	margin:auto;
+	width:560px;
+	margin-bottom: 50px;
+	margin-top: 140px;
+}
 #main_wrapper{	
 	float:left; 
 	margin:0px; 
@@ -101,7 +144,7 @@ em.ttip {
 	position:relative;
 	top:0px;
 	left:2px;
-	background:url(../image/Slider/banner_bg.jpg) no-repeat top left;
+	background:url(../image/Slider/banner_bg.png) no-repeat top left;
 }
 #inner{
 	width:950px; 
