@@ -2798,6 +2798,11 @@ ul.staggered-list li {
   .hide-on-small-only, .hide-on-small-and-down {
     display: none;
   }
+
+  img.special {
+    position: absolute;
+    left: 72px;
+  }
 }
 
 @media only screen and (max-width: 992px) {
