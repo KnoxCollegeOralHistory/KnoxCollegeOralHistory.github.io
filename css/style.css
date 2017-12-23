@@ -406,6 +406,18 @@ a {
 
 /* - 3.2 - daily-lifestyle-section - Start
 ================================================== */
+  .generationalHelp {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 16px; 
+  }
+
+  .daily-lifestyle-section {
+    border-top: 1px solid #4F3276;
+    border-bottom: 1px solid #4F3276;
+  }
+
 .daily-lifestyle-section .card {
   margin: 5px;
   overflow: hidden;
@@ -416,7 +428,7 @@ a {
   padding: 10px 15px;
 }
 .daily-lifestyle-section .card .card-image {
-  width: 40%;
+  width: 50%;
   float: left;
   overflow: hidden;
   position: relative;
