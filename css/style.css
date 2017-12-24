@@ -172,9 +172,9 @@ p.sm-name {
   width: 100%;
   color: #4F3276;
   display: table;
-  font-size: 14px;
-  font-weight: 700;
-  line-height: 16px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25px;
 }
 
 /*  - Link Button End
@@ -406,6 +406,11 @@ a {
 
 /* - 3.2 - daily-lifestyle-section - Start
 ================================================== */
+  div.card-content > p.card-title {
+    color: #4F3276;
+    font-weight: bold;
+  }
+
   .generationalHelp {
     margin-top: 5px;
     margin-bottom: 5px;
