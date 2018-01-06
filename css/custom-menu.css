@@ -53,7 +53,8 @@
   color: #4F3276;
   display: block;
   cursor: pointer;
-  font-size: 16px;
+  font-size: 17px;
+  font-weight: bold;
   overflow: hidden;
   padding: 28px 30px;
   position: relative;
