@@ -1,7 +1,7 @@
 #micro {
 	width: 80px;
 	height: 80px;
-	margin-top: -26px;
+	margin-top: -23px;
 }
 
 .special {
@@ -43,7 +43,6 @@
 	background-color: #fff;
 }
 .header-section ul.main-menu {
-	width: 70%;
 	margin: 0 auto;
 }
 .header-section ul.main-menu>li {
