@@ -4595,6 +4595,13 @@ div.card-content > a:hover {
   display: flex;
 }
 
+.card.vertical {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  flex-direction: column;
+}
+
 .card.horizontal.small .card-image, .card.horizontal.medium .card-image, .card.horizontal.large .card-image {
   height: 100%;
   max-height: none;

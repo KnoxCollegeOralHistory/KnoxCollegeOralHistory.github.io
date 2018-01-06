@@ -433,8 +433,7 @@ a {
   padding: 10px 15px;
 }
 .daily-lifestyle-section .card .card-image {
-  width: 50%;
-  float: left;
+  width: 100%;
   overflow: hidden;
   position: relative;
 }
