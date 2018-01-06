@@ -6,8 +6,8 @@
 
 .special {
 	width: 140px;
-	height: 45px;
-	margin-top: -7px;
+	height: 70px;
+	margin-top: -19px;
 }
 
 
@@ -39,8 +39,9 @@
 /* main-nav
 .................................................. */
 .header-section .main-nav {
-	height: 80px;
+	height: 100px;
 	background-color: #fff;
+	padding-top: 10px;
 }
 .header-section ul.main-menu {
 	margin: 0 auto;
@@ -53,7 +54,7 @@
   color: #4F3276;
   display: block;
   cursor: pointer;
-  font-size: 17px;
+  font-size: 20px;
   font-weight: bold;
   overflow: hidden;
   padding: 28px 30px;
