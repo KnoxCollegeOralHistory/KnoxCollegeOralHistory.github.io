@@ -10,9 +10,9 @@ a > p.card-title:hover {
 	color: #D4AA02
 }
 
-.card > .card-image > a:hover {
+/*.card > .card-image > a:hover {
 	border: 2px solid #D4AA02;
-}
+}*/
 
 #micro {
 	width: 80px;
