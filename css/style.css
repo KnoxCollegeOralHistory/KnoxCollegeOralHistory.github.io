@@ -513,8 +513,8 @@ a {
   box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.14);
 }
 .daily-lifestyle-section .owl-theme .owl-nav [class*=owl-]:hover:before {
-  color: #fff;
-  background: #2962ff;
+  color: #D4AA02;
+  background: #4F3276;
 }
 .daily-lifestyle-section .owl-prev {
   left: -4%;
